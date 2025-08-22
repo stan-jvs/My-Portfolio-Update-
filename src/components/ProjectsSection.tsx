@@ -8,7 +8,7 @@ export const ProjectsSection = () => {
       title: "Premium Cigar Store",
       description: "A full-featured e-commerce platform for premium cigars with shopping cart, payment integration, and user authentication. Built with modern technologies for optimal performance.",
       image: cigarProjectImage,
-      technologies: ["React", "Node.js", "MongoDB", "Stripe API", "CSS"],
+      technologies: ["React", "Node.js", "Stripe API", "CSS"],
       liveLink: "https://example.com/cigar-store",
       githubLink: "https://github.com/stanlus/cigar-ecommerce"
     },
