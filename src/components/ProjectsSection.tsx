@@ -17,7 +17,7 @@ export const ProjectsSection = () => {
       description: "Elegant and responsive website for an interior design company featuring portfolio showcase, service pages, and contact forms. Focuses on visual appeal and user experience.",
       image: interiorDesignImage,
       technologies: ["React", "Node.Js", "Tailwind CSS", "Express.js"],
-      liveLink: "https://example.com/interior-design",
+      liveLink: "https://elegant-spaces.vercel.app/",
       githubLink: "https://github.com/stan-jvs/elegant-spaces-react.git"
     },
     {
