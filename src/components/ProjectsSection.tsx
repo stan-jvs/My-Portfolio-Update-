@@ -31,7 +31,7 @@ export const ProjectsSection = () => {
       title: "Milele movers",
       description: "Your trusted African moving partner with over a decade of experience. Professional, reliable, and efficient moving services across the continent.",
       image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=800&h=600&fit=crop",
-      technologies: ["JavaScript",, "Chart.js", "CSS Grid", "HTML5"],
+      technologies: ["JavaScript","Chart.js", "CSS Grid", "HTML5"],
       liveLink: "https://milele-movers-ho2a.vercel.app/",
       githubLink: "https://github.com/stan-jvs/Weather-Api.git"
     }
