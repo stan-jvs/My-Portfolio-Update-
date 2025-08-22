@@ -21,18 +21,18 @@ export const ProjectsSection = () => {
       githubLink: "https://github.com/stan-jvs/elegant-spaces-react.git"
     },
     {
-      title: "Milele movers",
-      description: "A collaborative task management application with real-time updates, team collaboration features, and progress tracking. Built for productivity and team coordination.",
+      title: "Weather Api",
+      description: "r productivity and team coordi.",
       image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&h=600&fit=crop",
       technologies: ["React", "Node.js", "Socket.io", "MongoDB", "Material-UI"],
       githubLink: "https://github.com/stanlus/task-manager"
     },
     {
-      title: "Weather API",
-      description: "Real-time weather application with location-based forecasts, interactive maps, and detailed weather analytics. Features clean UI and responsive design.",
+      title: "Milele movers",
+      description: "Your trusted African moving partner with over a decade of experience. Professional, reliable, and efficient moving services across the continent.",
       image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=800&h=600&fit=crop",
       technologies: ["JavaScript", "Weather API", "Chart.js", "CSS Grid", "HTML5"],
-      liveLink: "https://example.com/weather-app",
+      liveLink: "https://milele-movers-ho2a.vercel.app/",
       githubLink: "https://github.com/stan-jvs/Weather-Api.git"
     }
   ];
