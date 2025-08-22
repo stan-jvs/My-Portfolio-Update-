@@ -21,7 +21,7 @@ export const ProjectsSection = () => {
       githubLink: "https://github.com/stan-jvs/elegant-spaces-react.git"
     },
     {
-      title: "Task Management App",
+      title: "Milele movers",
       description: "A collaborative task management application with real-time updates, team collaboration features, and progress tracking. Built for productivity and team coordination.",
       image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&h=600&fit=crop",
       technologies: ["React", "Node.js", "Socket.io", "MongoDB", "Material-UI"],
